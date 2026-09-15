@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@faker-js/faker": "^8.4.0",
+    "@faker-js/faker": "^10.5.0",
     "@radix-ui/themes": "^3.2.0",
     "ahooks": "^3.7.10",
     "next": "15.1.4",
